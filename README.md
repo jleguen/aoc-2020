@@ -1,5 +1,4 @@
-# aoc-2020
-Advent of Code 2020 in Rust  
+# Advent of Code 2020 in Rust  ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/jleguen/aoc-2020/Rust)  
 https://adventofcode.com/2020
 
 
