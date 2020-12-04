@@ -10,3 +10,4 @@ edition = "2018"
 aoc-runner = "*"
 aoc-runner-derive = "*"
 #error-chain = "*" # deprecated
+parse-display = "0.4"
